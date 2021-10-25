@@ -1,0 +1,9 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "context".(‘κίτ
+B
+java:S1481",Remove this unused "context" local variable.(‘κίτ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(υπΗΌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Σπ°ώÿÿÿÿ
+N
+java:S1128"9Remove this unused import 'io.kimmking.spring01.Student'.(βαª
